@@ -344,15 +344,15 @@ PRODUCT_PACKAGES += \
    NexusLauncher
 
 # Substratum
-PRODUCT_PACKAGES += \
-   Substratum
+# PRODUCT_PACKAGES += \
+#   Substratum
    
 # Theme Interfacer
-PRODUCT_PACKAGES += \
-   ...\
-   ...\
-   ...\
-   ThemeInterfacer
+# PRODUCT_PACKAGES += \
+#   ...\
+#   ...\
+#   ...\
+#   ThemeInterfacer
 
 # hardware optimizations
 #PRODUCT_PROPERTY_OVERRIDES += \
