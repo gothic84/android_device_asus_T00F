@@ -357,4 +357,3 @@ PRODUCT_PACKAGES += \
 # hardware optimizations
 #PRODUCT_PROPERTY_OVERRIDES += \
 #    dalvik.vm.isa.x86.features=sse4_2,aes_in,popcnt,movbe
-# Try to edit end lines
